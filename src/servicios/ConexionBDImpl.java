@@ -1,4 +1,4 @@
-package conexionBD;
+package servicios;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

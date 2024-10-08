@@ -2,7 +2,7 @@ package controladores;
 import java.sql.Connection;
 import java.sql.SQLException;
 
-import conexionBD.*;
+import servicios.*;
 public class App {
 
 	public static void main(String[] args) {
